@@ -1,0 +1,14 @@
+C:\Users\EH02339\Downloads\TestApi.Shared\bin\Debug\net6.0\TestApi.Shared.deps.json
+C:\Users\EH02339\Downloads\TestApi.Shared\bin\Debug\net6.0\TestApi.Shared.runtimeconfig.json
+C:\Users\EH02339\Downloads\TestApi.Shared\bin\Debug\net6.0\TestApi.Shared.dll
+C:\Users\EH02339\Downloads\TestApi.Shared\bin\Debug\net6.0\TestApi.Shared.pdb
+C:\Users\EH02339\Downloads\TestApi.Shared\obj\Debug\net6.0\TestApi.Shared.csproj.AssemblyReference.cache
+C:\Users\EH02339\Downloads\TestApi.Shared\obj\Debug\net6.0\TestApi.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EH02339\Downloads\TestApi.Shared\obj\Debug\net6.0\TestApi.Shared.AssemblyInfoInputs.cache
+C:\Users\EH02339\Downloads\TestApi.Shared\obj\Debug\net6.0\TestApi.Shared.AssemblyInfo.cs
+C:\Users\EH02339\Downloads\TestApi.Shared\obj\Debug\net6.0\TestApi.Shared.csproj.CoreCompileInputs.cache
+C:\Users\EH02339\Downloads\TestApi.Shared\obj\Debug\net6.0\TestApi.Shared.dll
+C:\Users\EH02339\Downloads\TestApi.Shared\obj\Debug\net6.0\refint\TestApi.Shared.dll
+C:\Users\EH02339\Downloads\TestApi.Shared\obj\Debug\net6.0\TestApi.Shared.pdb
+C:\Users\EH02339\Downloads\TestApi.Shared\obj\Debug\net6.0\TestApi.Shared.genruntimeconfig.cache
+C:\Users\EH02339\Downloads\TestApi.Shared\obj\Debug\net6.0\ref\TestApi.Shared.dll
